@@ -1,6 +1,4 @@
 """Currency converter utilities."""
-
-# TODO: add some currency rates
 RATES = {
     "USDEUR":0.85,
     "GBPEUR":1.13,
