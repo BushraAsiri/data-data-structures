@@ -1,4 +1,4 @@
-# pylint: disable=missing-docstring
+"""Currency converter utilities."""
 
 # TODO: add some currency rates
 RATES = {
